@@ -1,4 +1,10 @@
-## [![DTZxPorter's Header](https://github.com/dtzxporter/dtzxporter/blob/master/header.png)](https://modme.co)
+## [![DTZxPorter's Header](https://github.com/dtzxporter/dtzxporter/blob/master/images/header.png)](https://modme.co)
+
+<p align='center'>
+<a href="https://twitter.com/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="javascript:alert('Please contact me via email for my LinkedIn profile!');"><img height="30" src="https://github.com/dtzxporter/dtzxporter/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="http://youtube.com/c/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/blob/master/images/youtube.png"></a>
+</p>
 
 ### Hi there 👋
 
