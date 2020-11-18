@@ -8,7 +8,7 @@
 
 <h2 align="center">I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️</h2>
 <p align="center">I am a full stack software engineer and expert reverse engineer in the USA.
-I have professional experience in cable modem and router industry and have shipped two products via my current employer that include a remote management application to manage your network from anyhere. I have extensive knowledge deploying and managing infrastructure on AWS as well.</p>
+I have professional experience in cable modem and router industry and have shipped two products via my current employer that include a remote management application to manage your network from anywhere. I have extensive knowledge deploying and managing infrastructure on AWS as well.</p>
 
 ---
 
