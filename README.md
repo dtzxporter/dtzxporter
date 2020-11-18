@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/twitter.svg"></a>&nbsp;&nbsp;
-<a href="javascript:alert('Please contact me via email for my LinkedIn profile!');"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="#"><img title="Please contact me via Email for my LinkedIn profile!" height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="http://youtube.com/c/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/youtube.svg"></a>
 </p>
 
