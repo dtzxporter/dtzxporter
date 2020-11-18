@@ -6,19 +6,27 @@
 <a href="http://youtube.com/c/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/youtube.svg"></a>
 </p>
 
-### Hi there 👋
+<h2 align="center">I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️</h2>
+<p align="center">I am a full stack software engineer and expert reverse engineer in the USA.
+I have professional experience in cable modem and router industry and have shipped two products via my current employer that include a remote management application to manage your network from anyhere. I have extensive knowledge deploying and managing infrastructure on AWS as well.</p>
 
-<!--
-**dtzxporter/dtzxporter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 Where i am currently working at/as
+- Motorola Licensee (Full time): For networking products and IoT 🌐
+- Modme/Avia Creations (Founder): Open-source software and reverse engineering projects. ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What i am currently/done working on
+- Motorola remote management application  🚀
+- Motorola IoT infrastructure 🚀
+- Several projects including OSS ones on my github (Wraith, Legion, Vega, 3D software plugins, etc) 🚀
+
+### 📫 Where to find me
+- [Twitter](https://twitter.com/dtzxporter) 🐤
+- LinkedIn: Please shoot me an email 👨💼
+- [Website](https://modme.co) 😏🔗
+- Email: dtzxporter (at) gmail [Business inquiries only!] 💌
+
+---
+(I may not be as active here as I have accounts for professional jobs)
+![DTZxPorter's Stats](https://github-readme-stats.vercel.app/api?username=dtzxporter&show_icons=true&theme=radical)
