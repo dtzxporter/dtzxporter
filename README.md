@@ -8,15 +8,17 @@
 
 <h2 align="center">I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️</h2>
 <p align="center">I am a full stack software engineer and expert reverse engineer in the USA.
-I have professional experience in cable modem and router industry and have shipped two products via my current employer that include a remote management application to manage your network from anywhere. I have extensive knowledge deploying and managing infrastructure on AWS as well.</p>
+I have professional experience designing large scale microservices and mesh systems as well as experience in cable modem and router industry. I also have extensive knowledge deploying and managing infrastructure on AWS/DO. I also (unfortunately) have a lot of experience with Rust ⚙️.</p>
 
 ---
 
 ### 💼 Where i am currently working at/as
-- Motorola Licensee (Full time): For networking products and IoT 🌐
-- Modme/Avia Creations (Founder): Open-source software and reverse engineering projects. ⚙️
+- Locating... 🛰️
 
 ### 💻 What i am currently/done working on
+- Large scale microservices powered by a bleeding edge actor mesh system. 🌐
+- Motorola Licensee (Full time): For networking products and IoT 🌐
+- Modme/Avia Creations (Founder): Open-source software and reverse engineering projects. ⚙️
 - Motorola remote management application  🚀
 - Motorola IoT infrastructure 🚀
 - Several projects including OSS ones on my github (Wraith, Legion, Vega, 3D software plugins, etc) 🚀
