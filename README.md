@@ -13,7 +13,7 @@ I have professional experience designing large scale microservices and mesh syst
 ---
 
 ### 💼 Where i am currently working at/as
-- Quebic, Inc: [Here]([Here](https://quebic.com))
+- Quebic, Inc: [Here](https://quebic.com)
 
 ### 💻 What i am currently/done working on
 - Rust implemeation of the WebRTC stack.
