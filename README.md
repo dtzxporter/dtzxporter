@@ -8,14 +8,15 @@
 
 <h2 align="center">I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️</h2>
 <p align="center">I am a full stack software engineer and expert reverse engineer in the USA.
-I have professional experience designing large scale microservices and mesh systems as well as experience in cable modem and router industry. I also have extensive knowledge deploying and managing infrastructure on AWS/DO. I also (unfortunately) have a lot of experience with Rust ⚙️.</p>
+I have professional experience designing large scale microservices and mesh systems as well as experience in cable modem and router industry. I also have extensive knowledge deploying and managing infrastructure on AWS/DO. I also have a lot of experience with Rust ⚙️. Performance is a target I always aim to hit 🎯.</p>
 
 ---
 
 ### 💼 Where i am currently working at/as
-- Locating... 🛰️
+- Quebic, Inc: [Here]([Here](https://quebic.com))
 
 ### 💻 What i am currently/done working on
+- Rust implemeation of the WebRTC stack.
 - Large scale microservices powered by a bleeding edge actor mesh system. 🌐
 - Motorola Licensee (Full time): For networking products and IoT 🌐
 - Modme/Avia Creations (Founder): Open-source software and reverse engineering projects. ⚙️
