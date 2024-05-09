@@ -2,7 +2,6 @@
 
 <p align='center'>
 <a href="https://twitter.com/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/twitter.svg"></a>&nbsp;&nbsp;
-<a href="#"><img title="Please contact me via Email for my LinkedIn profile!" height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="http://youtube.com/c/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/youtube.svg"></a>
 </p>
 
@@ -11,14 +10,12 @@
 
 ---
 
-### 💼 Where i am currently working at/as
-- Quebic, Inc: [Here](https://quebic.com)
-
 ### 💻 What i am currently/done working on
-- Rust implementation of the WebRTC stack.
+- Rust framework for building fault tolerant applications: [hydra](https://github.com/dtzxporter/hydra).
+- Rust implementation of the WebRTC stack. 🚀
 - Large scale microservices powered by a bleeding edge actor mesh system. 🌐
 - Motorola Licensee (Full time): For networking products and IoT 🌐
-- Modme/Avia Creations (Founder): Open-source software and reverse engineering projects. ⚙️
+- Modme: Open-source software and reverse engineering projects. ⚙️
 - Motorola remote management application  🚀
 - Motorola IoT infrastructure 🚀
 - Several projects including OSS ones on my github (Wraith, Legion, Vega, 3D software plugins, etc) 🚀
