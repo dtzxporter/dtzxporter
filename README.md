@@ -11,7 +11,7 @@
 ---
 
 ### 💻 What i am currently/done working on
-- Rust framework for building fault tolerant applications: [hydra](https://github.com/dtzxporter/hydra).
+- Rust framework for building fault tolerant applications: [Hydra](https://github.com/dtzxporter/hydra).
 - Rust implementation of the WebRTC stack. 🚀
 - Large scale microservices powered by a bleeding edge actor mesh system. 🌐
 - Motorola Licensee (Full time): For networking products and IoT 🌐
