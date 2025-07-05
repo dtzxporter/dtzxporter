@@ -1,8 +1,8 @@
 ## [![DTZxPorter's Header](https://github.com/dtzxporter/dtzxporter/raw/main/images/header.png)](https://modme.co)
 
 <p align='center'>
-<a href="https://twitter.com/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/twitter.svg"></a>&nbsp;&nbsp;
-<a href="http://youtube.com/c/DTZxPorter"><img height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/youtube.svg"></a>
+<a href="https://twitter.com/DTZxPorter"><img width="30" height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/twitter.svg"></a>&nbsp;&nbsp;
+<a href="http://youtube.com/c/DTZxPorter"><img width="30" height="30" src="https://github.com/dtzxporter/dtzxporter/raw/main/images/youtube.svg"></a>
 </p>
 
 <h2 align="center">I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️</h2>
