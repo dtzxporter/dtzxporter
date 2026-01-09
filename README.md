@@ -25,8 +25,3 @@
 - LinkedIn: Please shoot me an email 👨💼
 - [Website](https://dtzxporter.com) 😏🔗
 - Email: dtzxporter (at) gmail [Business inquiries only!] 💌
-
----
-(I may not be as active here as I have accounts for professional jobs)
-
-![DTZxPorter's Stats](https://github-readme-stats.vercel.app/api?username=dtzxporter&show_icons=true&theme=radical)
